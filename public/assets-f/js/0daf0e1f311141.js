@@ -1,5 +1,5 @@
 /*!
-  * Christman Company theme v1.0.0 (https://bitbucket.org/elexicon/christman#readme)
+  * nzcd906 Company theme v1.0.0 (https://bitbucket.org/elexicon/nzcd906#readme)
   * Copyright 2026 Elexicon Inc., All Rights Reserved.
   * Not Licensed For External Use.
   */
