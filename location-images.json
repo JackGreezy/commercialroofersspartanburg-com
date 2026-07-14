@@ -1,0 +1,49 @@
+{
+  "domain": "commercialroofersspartanburg.com",
+  "mainLocation": {
+    "city": "Spartanburg",
+    "state": "SC",
+    "images": [
+      "/images/locations/commercial-roofers-spartanburg-sc-01.webp",
+      "/images/locations/commercial-roofers-spartanburg-sc-02.webp",
+      "/images/locations/commercial-roofers-spartanburg-sc-03.webp",
+      "/images/locations/commercial-roofers-spartanburg-sc-04.webp",
+      "/images/locations/commercial-roofers-spartanburg-sc-05.webp",
+      "/images/locations/commercial-roofers-spartanburg-sc-06.webp",
+      "/images/locations/commercial-roofers-spartanburg-sc-07.webp",
+      "/images/locations/commercial-roofers-spartanburg-sc-08.webp"
+    ]
+  },
+  "locations": {
+    "greer": "/images/locations/commercial-roofers-greer-sc.webp",
+    "duncan": "/images/locations/commercial-roofers-duncan-sc.webp",
+    "moore": "/images/locations/commercial-roofers-moore-sc.webp",
+    "lyman": "/images/locations/commercial-roofers-lyman-sc.webp",
+    "wellford": "/images/locations/commercial-roofers-wellford-sc.webp",
+    "gaffney": "/images/locations/commercial-roofers-gaffney-sc.webp",
+    "boiling-springs": "/images/locations/commercial-roofers-boiling-springs-sc.webp",
+    "reidville": "/images/locations/commercial-roofers-reidville-sc.webp",
+    "downtown-spartanburg": "/images/locations/commercial-roofers-downtown-spartanburg-sc.webp",
+    "westgate": "/images/locations/commercial-roofers-westgate-sc.webp",
+    "woodruff": "/images/locations/commercial-roofers-woodruff-sc.webp",
+    "union": "/images/locations/commercial-roofers-union-sc.webp",
+    "jonesville": "/images/locations/commercial-roofers-jonesville-sc.webp",
+    "inman": "/images/locations/commercial-roofers-inman-sc.webp",
+    "blacksburg": "/images/locations/commercial-roofers-blacksburg-sc.webp",
+    "chesnee": "/images/locations/commercial-roofers-chesnee-sc.webp",
+    "cowpens": "/images/locations/commercial-roofers-cowpens-sc.webp",
+    "landrum": "/images/locations/commercial-roofers-landrum-sc.webp",
+    "roebuck": "/images/locations/commercial-roofers-roebuck-sc.webp",
+    "pacolet": "/images/locations/commercial-roofers-pacolet-sc.webp",
+    "valley-falls": "/images/locations/commercial-roofers-valley-falls-sc.webp",
+    "fairforest": "/images/locations/commercial-roofers-fairforest-sc.webp",
+    "campobello": "/images/locations/commercial-roofers-campobello-sc.webp",
+    "startex": "/images/locations/commercial-roofers-startex-sc.webp",
+    "arcadia": "/images/locations/commercial-roofers-arcadia-sc.webp",
+    "saxon": "/images/locations/commercial-roofers-saxon-sc.webp",
+    "southern-shops": "/images/locations/commercial-roofers-southern-shops-sc.webp",
+    "enoree": "/images/locations/commercial-roofers-enoree-sc.webp",
+    "clifton": "/images/locations/commercial-roofers-clifton-sc.webp",
+    "glendale": "/images/locations/commercial-roofers-glendale-sc.webp"
+  }
+}
