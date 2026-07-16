@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
 Sitemap: https://commercialroofersspartanburg.com/sitemap.xml
-# AI: https://commercialroofersspartanburg.com/llms.txt
