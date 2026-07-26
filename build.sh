@@ -3,9 +3,9 @@ set -euo pipefail
 ROOT=/Users/jackgreenberg/Desktop/rank-and-rent
 S=$ROOT/David/clones/scripts
 PROJ=$ROOT/commercial-roofing/commercialroofersspartanburg-com
-REFHOST=vzhzw-com
+REFHOST=christmanco-com
 VOICE=$S/voice/commercial-roofing.json
-PAGES="home=https://www.vzhzw.com/,about=https://www.vzhzw.com/company/about-us,contact=https://www.vzhzw.com/contact,index=https://www.vzhzw.com/portfolio,slug=https://www.vzhzw.com/portfolio/fedex-dtwr-expansion"
+PAGES="home=https://www.christmanco.com/,about=https://www.christmanco.com/company/about-us,contact=https://www.christmanco.com/contact,index=https://www.christmanco.com/portfolio,slug=https://www.christmanco.com/portfolio/fedex-dtwr-expansion"
 CFG=$PROJ/home.config.json
 MAP=$S/relabel-map-$REFHOST.json
 CAP=$ROOT/David/clones/_captures/$REFHOST-v1
@@ -13,7 +13,7 @@ CAP=$ROOT/David/clones/_captures/$REFHOST-v1
 [ -f "$CFG" ] || { echo "MISSING $CFG"; exit 1; }
 [ -f "$MAP" ] || { echo "MISSING $MAP"; exit 1; }
 if [ ! -f "$CAP/public/home.html.ref" ]; then
-  node "$S/faithful-home.mjs" --no-scripts --src "https://www.vzhzw.com/" --pages "$PAGES" --dir "$CAP"
+  node "$S/faithful-home.mjs" --no-scripts --src "https://www.christmanco.com/" --pages "$PAGES" --dir "$CAP"
 fi
 mkdir -p "$PROJ/public"
 cp "$CAP"/public/*.html.ref "$PROJ/public/" 2>/dev/null || true
@@ -28,8 +28,9 @@ src, dst = os.path.join(p, 'public/images'), os.path.join(p, 'public/ours')
 if os.path.isdir(src): shutil.copytree(src, dst, dirs_exist_ok=True)
 PY
 python3 "$S/relabel_engine.py" --config "$CFG" --map "$MAP" --voice "$VOICE"
+rm -f "$PROJ/public/assets-f/css/e8d3dfad33619f.css"
 python3 "$PROJ/scripts/normalize-contact-forms.py" "$PROJ"
-python3 "$PROJ/scripts/hobo-seo-finalize.py" "$PROJ"
 python3 "$S/verify_site.py" "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
 node "$S/qa_shots.mjs" "$PROJ"
+find "$PROJ/public" -maxdepth 1 -type f -name '*.html.ref' -delete
 echo "BUILD COMPLETE — gates green. Human QA: open $PROJ/qa-out/CONTACT-SHEET.html"
