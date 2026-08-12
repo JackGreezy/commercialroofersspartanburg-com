@@ -424,36 +424,43 @@ footer .rr-footer-map iframe{position:absolute!important;inset:0!important;displ
 <div class="col-md-5 d-flex flex-column justify-content-between">
 <div class="row">
 <div class="col-6">
-<p><label class="form-label">NAME</label><br/>
-<span class="wpcf7-form-control-wrap" data-name="first-name"><input aria-invalid="false" aria-required="true" autocomplete="name" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" id="contact-firstName" maxlength="400" name="firstName" placeholder="First name" required="" size="40" type="text" value=""/></span>
+<p><label class="form-label">Name</label><br/>
+<span class="wpcf7-form-control-wrap" data-name="first-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" id="contact-firstName" name="name" type="text" autocomplete="name" placeholder="Your name" required/></span>
 </p>
 </div>
 <div class="col-6">
-<p><label class="form-label">LAST NAME</label><br/>
-<span class="wpcf7-form-control-wrap" data-name="last-name"><input aria-invalid="false" aria-required="true" autocomplete="name" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" id="contact-lastName" maxlength="400" name="lastName" placeholder="Last name" required="" size="40" type="text" value=""/></span>
+<p><label class="form-label">Phone</label><br/>
+<span class="wpcf7-form-control-wrap" data-name="last-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" id="contact-lastName" name="phone" type="tel" autocomplete="tel" placeholder="Phone number" required/></span>
 </p>
 </div>
 </div>
 <div class="row">
-<p><label class="form-label">EMAIL</label><br/>
-<span class="wpcf7-form-control-wrap" data-name="your-email"><input aria-invalid="false" aria-required="true" autocomplete="email" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email form-control" id="contact-emailAddress" maxlength="400" name="emailAddress" placeholder="Email" required="" size="40" type="email" value=""/></span>
+<p><label class="form-label">Email</label><br/>
+<span class="wpcf7-form-control-wrap" data-name="your-email"><input class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email form-control" id="contact-emailAddress" name="email" type="email" autocomplete="email" placeholder="Email address" required/></span>
 </p>
 </div>
 <div class="row">
 <div class="col-6">
-<p><label class="form-label">PHONE</label><br/>
-<span class="wpcf7-form-control-wrap" data-name="phone"><input aria-invalid="false" aria-required="true" autocomplete="phone" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel form-control" id="contact-phoneNumber" maxlength="400" name="phoneNumber" placeholder="Phone" required="" size="40" type="tel" value=""/></span>
+<p><label class="form-label">Timeline</label><br/>
+<span class="wpcf7-form-control-wrap" data-name="phone"><select class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel form-control" id="contact-phoneNumber" name="timeline" required>
+<option value="">Select a timeline</option>
+<option value="Emergency - active leak">Emergency - active leak</option>
+<option value="Within 30 days">Within 30 days</option>
+<option value="1-3 months">1-3 months</option>
+<option value="3-6 months">3-6 months</option>
+<option value="Planning / budgeting">Planning / budgeting</option>
+</select></span>
 </p>
 </div>
 <div class="col-6">
-<p><label class="form-label">ROOFING NEED</label><br/>
-<span class="wpcf7-form-control-wrap" data-name="organization"><input aria-invalid="false" aria-required="true" autocomplete="organization" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" id="contact-roofingNeed" maxlength="400" name="roofingNeed" placeholder="Roofing service needed" size="40" type="text" value=""/></span>
+<p><label class="form-label">Address</label><br/>
+<span class="wpcf7-form-control-wrap" data-name="organization"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" id="contact-roofingNeed" name="address" type="text" autocomplete="street-address" placeholder="Building address or roof location" required/></span>
 </p>
 </div>
 </div>
 <div class="row">
-<p><label class="form-label">ROOF DETAILS</label><br/>
-<span class="wpcf7-form-control-wrap" data-name="message"><textarea aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control" cols="40" id="contact-projectDetails" maxlength="2000" name="projectDetails" placeholder="Tell us about the roof, issue, and schedule" rows="10"></textarea></span>
+<p><label class="form-label">Message</label><br/>
+<span class="wpcf7-form-control-wrap" data-name="message"><textarea class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control" id="contact-projectDetails" name="message" placeholder="Tell us about the roof, issue, access, and schedule" required rows="7"></textarea></span>
 </p>
 </div>
 </div>

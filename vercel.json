@@ -1,1 +1,4 @@
-{"cleanUrls":true}
+{
+  "cleanUrls": true,
+  "buildCommand": "node scripts/normalize-contact-forms.mjs"
+}
