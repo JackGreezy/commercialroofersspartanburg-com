@@ -1,4 +1,4 @@
 {
   "cleanUrls": true,
-  "buildCommand": "node scripts/normalize-contact-forms.mjs"
+  "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs"
 }
