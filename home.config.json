@@ -10,7 +10,7 @@
   "wordmark_l1": "Commercial Roofers",
   "wordmark_l2": "of Spartanburg",
   "brand_logo": "/images/brand/logo-on-light.png",
-  "hero_image": "/ours/locations/commercial-roofers-spartanburg-sc-06.webp",
+  "hero_image": "/ours/service-areas/commercial-roofers-spartanburg-sc-06.webp",
   "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/voice/commercial-roofing.json",
   "nav": [
     [
@@ -35,7 +35,7 @@
     ],
     [
       "Service Areas",
-      "/locations"
+      "/service-areas"
     ]
   ],
   "cta": [

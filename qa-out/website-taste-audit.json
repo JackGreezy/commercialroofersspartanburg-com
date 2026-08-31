@@ -1,0 +1,4552 @@
+{
+  "summary": {
+    "project": "/Users/jackgreenberg/Desktop/rank-and-rent/commercial-roofing/commercialroofersspartanburg-com",
+    "routes": 100,
+    "cardGroups": 3,
+    "unevenCardGroups": 0,
+    "clippedText": 0,
+    "carousels": 91,
+    "carouselsMissingControls": 0,
+    "carouselFunctionFailures": 0,
+    "forms": 1,
+    "elPasoFormMatches": 1
+  },
+  "results": [
+    {
+      "route": "/",
+      "load": true,
+      "title": "Commercial Roofing Contractors Spartanburg | Local Roofers",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [
+        {
+          "selector": "swiper-wrapper",
+          "count": 3,
+          "minHeight": 626,
+          "maxHeight": 626,
+          "heightDelta": 0,
+          "minWidth": 356,
+          "maxWidth": 356,
+          "widthDelta": 0,
+          "clippedText": []
+        }
+      ],
+      "carousels": [
+        {
+          "selector": "div.swiper.swiper-horizontal",
+          "slides": 2,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.swiper.swiper-horizontal",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":false,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/404",
+      "load": true,
+      "title": "Page not found | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/about",
+      "load": true,
+      "title": "About Commercial Roofers of Spartanburg | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [
+        {
+          "selector": "swiper-wrapper",
+          "count": 3,
+          "minHeight": 626,
+          "maxHeight": 626,
+          "heightDelta": 0,
+          "minWidth": 356,
+          "maxWidth": 356,
+          "widthDelta": 0,
+          "clippedText": []
+        },
+        {
+          "selector": "swiper-wrapper",
+          "count": 3,
+          "minHeight": 606,
+          "maxHeight": 606,
+          "heightDelta": 0,
+          "minWidth": 356,
+          "maxWidth": 356,
+          "widthDelta": 0,
+          "clippedText": []
+        }
+      ],
+      "carousels": [
+        {
+          "selector": "div.swiper.swiper-horizontal",
+          "slides": 2,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.swiper.swiper-horizontal",
+          "slides": 2,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.swiper.swiper-horizontal",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":false,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[]}",
+          "nextMoved": true,
+          "previousReturned": true
+        },
+        {
+          "root": "div.swiper.swiper-horizontal",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":false,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/contact",
+      "load": true,
+      "title": "Let's Talk About Your Commercial Roof | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": {
+        "action": "/api/submit",
+        "method": "post",
+        "asyncHook": true,
+        "fields": [
+          {
+            "name": "_company",
+            "type": "text",
+            "required": false,
+            "visible": false
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "required": true,
+            "visible": true
+          },
+          {
+            "name": "phone",
+            "type": "tel",
+            "required": true,
+            "visible": true
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "required": true,
+            "visible": true
+          },
+          {
+            "name": "address",
+            "type": "text",
+            "required": true,
+            "visible": true
+          },
+          {
+            "name": "timeline",
+            "type": "select",
+            "required": true,
+            "visible": true
+          },
+          {
+            "name": "notes",
+            "type": "textarea",
+            "required": true,
+            "visible": true
+          }
+        ],
+        "statusRegion": true
+      },
+      "carouselChecks": []
+    },
+    {
+      "route": "/industries",
+      "load": true,
+      "title": "Industries We Serve | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/industries/commercial-real-estate-reits",
+      "load": true,
+      "title": "Roofing for Commercial Real Estate and REIT Portfolios | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/industries/food-processing-cold-storage",
+      "load": true,
+      "title": "Roofing for Food Processing and Cold Storage | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/industries/general-contractors",
+      "load": true,
+      "title": "Roofing Subcontractor for General Contractors | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/industries/healthcare-systems",
+      "load": true,
+      "title": "Roofing for Hospitals and Healthcare Facilities | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/industries/insurance-restoration",
+      "load": true,
+      "title": "Storm and Insurance Restoration Roofing | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/industries/logistics-3pl",
+      "load": true,
+      "title": "Roofing for Logistics and 3PL Facilities | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/industries/manufacturing-operators",
+      "load": true,
+      "title": "Commercial Roofing for Manufacturing Operators | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/industries/property-management-firms",
+      "load": true,
+      "title": "Roofing Partner for Property Management Firms | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas",
+      "load": true,
+      "title": "Service Areas | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/arcadia",
+      "load": true,
+      "title": "Commercial Roofing in Arcadia, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/blacksburg",
+      "load": true,
+      "title": "Commercial Roofing in Blacksburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/boiling-springs",
+      "load": true,
+      "title": "Commercial Roofing in Boiling Springs, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/campobello",
+      "load": true,
+      "title": "Commercial Roofing in Campobello, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/chesnee",
+      "load": true,
+      "title": "Commercial Roofing in Chesnee, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/clifton",
+      "load": true,
+      "title": "Commercial Roofing in Clifton, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/cowpens",
+      "load": true,
+      "title": "Commercial Roofing in Cowpens, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/downtown-spartanburg",
+      "load": true,
+      "title": "Commercial Roofing in Downtown Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/duncan",
+      "load": true,
+      "title": "Commercial Roofing in Duncan, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/enoree",
+      "load": true,
+      "title": "Commercial Roofing in Enoree, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/fairforest",
+      "load": true,
+      "title": "Commercial Roofing in Fairforest, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/gaffney",
+      "load": true,
+      "title": "Commercial Roofing in Gaffney, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/glendale",
+      "load": true,
+      "title": "Commercial Roofing in Glendale, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/greer",
+      "load": true,
+      "title": "Commercial Roofing in Greer, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/inman",
+      "load": true,
+      "title": "Commercial Roofing in Inman, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/jonesville",
+      "load": true,
+      "title": "Commercial Roofing in Jonesville, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/landrum",
+      "load": true,
+      "title": "Commercial Roofing in Landrum, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/lyman",
+      "load": true,
+      "title": "Commercial Roofing in Lyman, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/moore",
+      "load": true,
+      "title": "Commercial Roofing in Moore, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/pacolet",
+      "load": true,
+      "title": "Commercial Roofing in Pacolet, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/reidville",
+      "load": true,
+      "title": "Commercial Roofing in Reidville, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/roebuck",
+      "load": true,
+      "title": "Commercial Roofing in Roebuck, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/saxon",
+      "load": true,
+      "title": "Commercial Roofing in Saxon, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/southern-shops",
+      "load": true,
+      "title": "Commercial Roofing in Southern Shops, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/startex",
+      "load": true,
+      "title": "Commercial Roofing in Startex, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/union",
+      "load": true,
+      "title": "Commercial Roofing in Union, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/valley-falls",
+      "load": true,
+      "title": "Commercial Roofing in Valley Falls, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/wellford",
+      "load": true,
+      "title": "Commercial Roofing in Wellford, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/westgate",
+      "load": true,
+      "title": "Commercial Roofing in Westgate, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/woodruff",
+      "load": true,
+      "title": "Commercial Roofing in Woodruff, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/manufacturers",
+      "load": true,
+      "title": "Roofing Manufacturers | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/manufacturers/carlisle-syntec",
+      "load": true,
+      "title": "Carlisle SynTec Roofing Systems in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/manufacturers/gaf-commercial",
+      "load": true,
+      "title": "GAF Commercial Roofing Systems in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/manufacturers/holcim-elevate",
+      "load": true,
+      "title": "Holcim Elevate Roofing Systems in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/manufacturers/johns-manville",
+      "load": true,
+      "title": "Johns Manville Roofing Systems in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/manufacturers/sika-sarnafil",
+      "load": true,
+      "title": "Sika Sarnafil Roofing Systems in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/manufacturers/versico",
+      "load": true,
+      "title": "Versico Roofing Systems in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/privacy",
+      "load": true,
+      "title": "Privacy Policy | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/project-types",
+      "load": true,
+      "title": "Commercial Project Types | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/project-types/automotive-manufacturing-roofing",
+      "load": true,
+      "title": "Automotive Manufacturing Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/big-box-retail-roofing",
+      "load": true,
+      "title": "Big-Box Retail Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/cold-storage-roofing",
+      "load": true,
+      "title": "Cold Storage Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/distribution-center-roofing",
+      "load": true,
+      "title": "Distribution Center Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/higher-education-roofing",
+      "load": true,
+      "title": "Higher Education Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/hospital-surgery-center-roofing",
+      "load": true,
+      "title": "Hospital and Surgery Center Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/industrial-flex-space-roofing",
+      "load": true,
+      "title": "Industrial Flex Space Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/k12-school-roofing",
+      "load": true,
+      "title": "K-12 School Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/manufacturing-plant-roofing",
+      "load": true,
+      "title": "Manufacturing Plant Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/medical-office-building-roofing",
+      "load": true,
+      "title": "Medical Office Building Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/multifamily-apartment-roofing",
+      "load": true,
+      "title": "Multifamily Apartment Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/warehouse-roofing",
+      "load": true,
+      "title": "Warehouse Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/roof-systems",
+      "load": true,
+      "title": "Roof Systems | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/roof-systems/epdm-black",
+      "load": true,
+      "title": "Black EPDM Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/roof-systems/epdm-white",
+      "load": true,
+      "title": "White EPDM Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/roof-systems/modified-bitumen-sbs",
+      "load": true,
+      "title": "SBS Modified Bitumen Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/roof-systems/pvc-roof-systems",
+      "load": true,
+      "title": "PVC Roof Systems in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/roof-systems/silicone-roof-coating",
+      "load": true,
+      "title": "Silicone Roof Coating Systems in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/roof-systems/spray-polyurethane-foam",
+      "load": true,
+      "title": "Spray Polyurethane Foam Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/roof-systems/tpo-60-mil",
+      "load": true,
+      "title": "60-Mil TPO Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/roof-systems/tpo-80-mil",
+      "load": true,
+      "title": "80-Mil TPO Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services",
+      "load": true,
+      "title": "Commercial Roofing Services | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/acrylic-roof-coatings",
+      "load": true,
+      "title": "Acrylic Roof Coatings in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/built-up-roofing",
+      "load": true,
+      "title": "Built-Up Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/commercial-reroofing",
+      "load": true,
+      "title": "Commercial Reroofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/commercial-roof-inspection",
+      "load": true,
+      "title": "Commercial Roof Inspection in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/commercial-roof-insurance-claims",
+      "load": true,
+      "title": "Commercial Roof Insurance Claim Assistance in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/commercial-roof-leak-repair",
+      "load": true,
+      "title": "Commercial Roof Leak Repair in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/commercial-roof-tear-off-replacement",
+      "load": true,
+      "title": "Commercial Roof Tear-Off and Replacement in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/edge-metal-coping-gutters",
+      "load": true,
+      "title": "Edge Metal, Coping, and Gutter Repair in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/emergency-tarp-dry-in",
+      "load": true,
+      "title": "Emergency Tarp and Dry-In Service in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/epdm-commercial-roofing",
+      "load": true,
+      "title": "EPDM Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/hail-damage-roof-insurance-claims",
+      "load": true,
+      "title": "Hail Damage Roof Insurance Claims in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/insurance-documentation-support",
+      "load": true,
+      "title": "Roof Insurance Documentation Support in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/metal-r-panel-roofing",
+      "load": true,
+      "title": "Metal R-Panel Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/modified-bitumen-roofing",
+      "load": true,
+      "title": "Modified Bitumen Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/preventive-maintenance-programs",
+      "load": true,
+      "title": "Preventive Roof Maintenance Programs in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/pvc-roofing",
+      "load": true,
+      "title": "PVC Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/roof-drains-scuppers",
+      "load": true,
+      "title": "Roof Drains and Scuppers in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/roof-recover-overlay",
+      "load": true,
+      "title": "Roof Recover and Overlay Systems in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/silicone-roof-coatings",
+      "load": true,
+      "title": "Silicone Roof Coatings in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/snow-ice-roof-damage-insurance-claims",
+      "load": true,
+      "title": "Snow and Ice Roof Damage Insurance Claims in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/standing-seam-metal-roofing",
+      "load": true,
+      "title": "Standing Seam Metal Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/storm-damage-roof-repair",
+      "load": true,
+      "title": "Storm Damage Roof Repair in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/tpo-single-ply-roofing",
+      "load": true,
+      "title": "TPO Single-Ply Roofing in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/wind-storm-damage-roof-insurance-claims",
+      "load": true,
+      "title": "Wind and Storm Damage Roof Insurance Claims in Spartanburg, SC | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "slides": 3,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.ph-swiper.swiper.swiper-horizontal.swiper-backface-hidden",
+          "previous": "swiper-button-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "swiper-button-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/terms",
+      "load": true,
+      "title": "Terms of Service | Commercial Roofers of Spartanburg",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    }
+  ]
+}

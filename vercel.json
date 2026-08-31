@@ -1,4 +1,322 @@
 {
   "cleanUrls": true,
-  "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs"
+  "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs",
+  "rewrites": [],
+  "redirects": [
+    {
+      "source": "/locations/:path*",
+      "destination": "/service-areas/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/locations",
+      "destination": "/service-areas",
+      "permanent": true
+    },
+    {
+      "source": "/locations/arcadia",
+      "destination": "/service-areas/arcadia",
+      "permanent": true
+    },
+    {
+      "source": "/locations/arcadia/",
+      "destination": "/service-areas/arcadia",
+      "permanent": true
+    },
+    {
+      "source": "/locations/blacksburg",
+      "destination": "/service-areas/blacksburg",
+      "permanent": true
+    },
+    {
+      "source": "/locations/blacksburg/",
+      "destination": "/service-areas/blacksburg",
+      "permanent": true
+    },
+    {
+      "source": "/locations/boiling-springs",
+      "destination": "/service-areas/boiling-springs",
+      "permanent": true
+    },
+    {
+      "source": "/locations/boiling-springs/",
+      "destination": "/service-areas/boiling-springs",
+      "permanent": true
+    },
+    {
+      "source": "/locations/campobello",
+      "destination": "/service-areas/campobello",
+      "permanent": true
+    },
+    {
+      "source": "/locations/campobello/",
+      "destination": "/service-areas/campobello",
+      "permanent": true
+    },
+    {
+      "source": "/locations/chesnee",
+      "destination": "/service-areas/chesnee",
+      "permanent": true
+    },
+    {
+      "source": "/locations/chesnee/",
+      "destination": "/service-areas/chesnee",
+      "permanent": true
+    },
+    {
+      "source": "/locations/clifton",
+      "destination": "/service-areas/clifton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/clifton/",
+      "destination": "/service-areas/clifton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/cowpens",
+      "destination": "/service-areas/cowpens",
+      "permanent": true
+    },
+    {
+      "source": "/locations/cowpens/",
+      "destination": "/service-areas/cowpens",
+      "permanent": true
+    },
+    {
+      "source": "/locations/downtown-spartanburg",
+      "destination": "/service-areas/downtown-spartanburg",
+      "permanent": true
+    },
+    {
+      "source": "/locations/downtown-spartanburg/",
+      "destination": "/service-areas/downtown-spartanburg",
+      "permanent": true
+    },
+    {
+      "source": "/locations/duncan",
+      "destination": "/service-areas/duncan",
+      "permanent": true
+    },
+    {
+      "source": "/locations/duncan/",
+      "destination": "/service-areas/duncan",
+      "permanent": true
+    },
+    {
+      "source": "/locations/enoree",
+      "destination": "/service-areas/enoree",
+      "permanent": true
+    },
+    {
+      "source": "/locations/enoree/",
+      "destination": "/service-areas/enoree",
+      "permanent": true
+    },
+    {
+      "source": "/locations/fairforest",
+      "destination": "/service-areas/fairforest",
+      "permanent": true
+    },
+    {
+      "source": "/locations/fairforest/",
+      "destination": "/service-areas/fairforest",
+      "permanent": true
+    },
+    {
+      "source": "/locations/gaffney",
+      "destination": "/service-areas/gaffney",
+      "permanent": true
+    },
+    {
+      "source": "/locations/gaffney/",
+      "destination": "/service-areas/gaffney",
+      "permanent": true
+    },
+    {
+      "source": "/locations/glendale",
+      "destination": "/service-areas/glendale",
+      "permanent": true
+    },
+    {
+      "source": "/locations/glendale/",
+      "destination": "/service-areas/glendale",
+      "permanent": true
+    },
+    {
+      "source": "/locations/greer",
+      "destination": "/service-areas/greer",
+      "permanent": true
+    },
+    {
+      "source": "/locations/greer/",
+      "destination": "/service-areas/greer",
+      "permanent": true
+    },
+    {
+      "source": "/locations/inman",
+      "destination": "/service-areas/inman",
+      "permanent": true
+    },
+    {
+      "source": "/locations/inman/",
+      "destination": "/service-areas/inman",
+      "permanent": true
+    },
+    {
+      "source": "/locations/jonesville",
+      "destination": "/service-areas/jonesville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/jonesville/",
+      "destination": "/service-areas/jonesville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/landrum",
+      "destination": "/service-areas/landrum",
+      "permanent": true
+    },
+    {
+      "source": "/locations/landrum/",
+      "destination": "/service-areas/landrum",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lyman",
+      "destination": "/service-areas/lyman",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lyman/",
+      "destination": "/service-areas/lyman",
+      "permanent": true
+    },
+    {
+      "source": "/locations/moore",
+      "destination": "/service-areas/moore",
+      "permanent": true
+    },
+    {
+      "source": "/locations/moore/",
+      "destination": "/service-areas/moore",
+      "permanent": true
+    },
+    {
+      "source": "/locations/pacolet",
+      "destination": "/service-areas/pacolet",
+      "permanent": true
+    },
+    {
+      "source": "/locations/pacolet/",
+      "destination": "/service-areas/pacolet",
+      "permanent": true
+    },
+    {
+      "source": "/locations/reidville",
+      "destination": "/service-areas/reidville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/reidville/",
+      "destination": "/service-areas/reidville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/roebuck",
+      "destination": "/service-areas/roebuck",
+      "permanent": true
+    },
+    {
+      "source": "/locations/roebuck/",
+      "destination": "/service-areas/roebuck",
+      "permanent": true
+    },
+    {
+      "source": "/locations/saxon",
+      "destination": "/service-areas/saxon",
+      "permanent": true
+    },
+    {
+      "source": "/locations/saxon/",
+      "destination": "/service-areas/saxon",
+      "permanent": true
+    },
+    {
+      "source": "/locations/southern-shops",
+      "destination": "/service-areas/southern-shops",
+      "permanent": true
+    },
+    {
+      "source": "/locations/southern-shops/",
+      "destination": "/service-areas/southern-shops",
+      "permanent": true
+    },
+    {
+      "source": "/locations/startex",
+      "destination": "/service-areas/startex",
+      "permanent": true
+    },
+    {
+      "source": "/locations/startex/",
+      "destination": "/service-areas/startex",
+      "permanent": true
+    },
+    {
+      "source": "/locations/union",
+      "destination": "/service-areas/union",
+      "permanent": true
+    },
+    {
+      "source": "/locations/union/",
+      "destination": "/service-areas/union",
+      "permanent": true
+    },
+    {
+      "source": "/locations/valley-falls",
+      "destination": "/service-areas/valley-falls",
+      "permanent": true
+    },
+    {
+      "source": "/locations/valley-falls/",
+      "destination": "/service-areas/valley-falls",
+      "permanent": true
+    },
+    {
+      "source": "/locations/wellford",
+      "destination": "/service-areas/wellford",
+      "permanent": true
+    },
+    {
+      "source": "/locations/wellford/",
+      "destination": "/service-areas/wellford",
+      "permanent": true
+    },
+    {
+      "source": "/locations/westgate",
+      "destination": "/service-areas/westgate",
+      "permanent": true
+    },
+    {
+      "source": "/locations/westgate/",
+      "destination": "/service-areas/westgate",
+      "permanent": true
+    },
+    {
+      "source": "/locations/woodruff",
+      "destination": "/service-areas/woodruff",
+      "permanent": true
+    },
+    {
+      "source": "/locations/woodruff/",
+      "destination": "/service-areas/woodruff",
+      "permanent": true
+    },
+    {
+      "source": "/locations/",
+      "destination": "/service-areas",
+      "permanent": true
+    }
+  ]
 }

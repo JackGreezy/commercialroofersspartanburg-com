@@ -10,7 +10,7 @@
  "taxonomies": {
   "locations": {
    "title": "Service Areas",
-   "route": "/locations",
+   "route": "/service-areas",
    "items": [
     {
      "slug": "downtown-spartanburg",
@@ -26,23 +26,23 @@
      "related": [
       {
        "label": "Spec-Building Roof Submittals for Reidville's Warehouse Growth",
-       "href": "/locations/reidville"
+       "href": "/service-areas/reidville"
       },
       {
        "label": "Metal Roof Systems for Contractor Yards and Shops in Roebuck",
-       "href": "/locations/roebuck"
+       "href": "/service-areas/roebuck"
       },
       {
        "label": "Strip Retail and Mill-Adjacent Roofing on Spartanburg's North Side",
-       "href": "/locations/saxon"
+       "href": "/service-areas/saxon"
       },
       {
        "label": "Light-Industrial Roofing Near Spartanburg's Old Rail Shops",
-       "href": "/locations/southern-shops"
+       "href": "/service-areas/southern-shops"
       },
       {
        "label": "Mill-Era Roofs Meeting New Construction Near Startex",
-       "href": "/locations/startex"
+       "href": "/service-areas/startex"
       },
       {
        "label": "Stopping Water Intrusion the Same Day It Starts",
@@ -92,23 +92,23 @@
      "related": [
       {
        "label": "Roof Recover and Replacement Options for Small Commercial Buildings in Chesnee",
-       "href": "/locations/chesnee"
+       "href": "/service-areas/chesnee"
       },
       {
        "label": "Riverside Roof Drainage for Clifton's Mill-Village Buildings",
-       "href": "/locations/clifton"
+       "href": "/service-areas/clifton"
       },
       {
        "label": "Maintaining Small Industrial Roofs Near I-85 in Cowpens",
-       "href": "/locations/cowpens"
+       "href": "/service-areas/cowpens"
       },
       {
        "label": "Roofing Older Masonry Buildings Around Morgan Square",
-       "href": "/locations/downtown-spartanburg"
+       "href": "/service-areas/downtown-spartanburg"
       },
       {
        "label": "Distribution-Center Roof Specifications on Duncan's I-85 Frontage",
-       "href": "/locations/duncan"
+       "href": "/service-areas/duncan"
       },
       {
        "label": "Tracing Leaks Back to Their Actual Source",
@@ -154,23 +154,23 @@
      "related": [
       {
        "label": "Maintaining Small Industrial Roofs Near I-85 in Cowpens",
-       "href": "/locations/cowpens"
+       "href": "/service-areas/cowpens"
       },
       {
        "label": "Roofing Older Masonry Buildings Around Morgan Square",
-       "href": "/locations/downtown-spartanburg"
+       "href": "/service-areas/downtown-spartanburg"
       },
       {
        "label": "Distribution-Center Roof Specifications on Duncan's I-85 Frontage",
-       "href": "/locations/duncan"
+       "href": "/service-areas/duncan"
       },
       {
        "label": "Rural Metal Roofing Along US-221 in Enoree",
-       "href": "/locations/enoree"
+       "href": "/service-areas/enoree"
       },
       {
        "label": "Membrane Roofing for Fairforest's Distribution and Flex Buildings",
-       "href": "/locations/fairforest"
+       "href": "/service-areas/fairforest"
       },
       {
        "label": "EPDM Systems for Mill Conversions and Established Roofs Across Spartanburg County",
@@ -220,23 +220,23 @@
      "related": [
       {
        "label": "Commercial Roofing for Landrum's US-176 Retail and Hospitality Buildings",
-       "href": "/locations/landrum"
+       "href": "/service-areas/landrum"
       },
       {
        "label": "Moisture-Control Roofing for Lyman's Beverage and Industrial Buildings",
-       "href": "/locations/lyman"
+       "href": "/service-areas/lyman"
       },
       {
        "label": "Process-Building Roofing Along the Tyger River Industrial Area",
-       "href": "/locations/moore"
+       "href": "/service-areas/moore"
       },
       {
        "label": "Roofing Considerations for Converted Mill Buildings in Pacolet",
-       "href": "/locations/pacolet"
+       "href": "/service-areas/pacolet"
       },
       {
        "label": "Spec-Building Roof Submittals for Reidville's Warehouse Growth",
-       "href": "/locations/reidville"
+       "href": "/service-areas/reidville"
       },
       {
        "label": "PVC Membrane for Roofs With Chemical or Grease Exhaust Exposure",
@@ -286,23 +286,23 @@
      "related": [
       {
        "label": "Process-Building Roofing Along the Tyger River Industrial Area",
-       "href": "/locations/moore"
+       "href": "/service-areas/moore"
       },
       {
        "label": "Roofing Considerations for Converted Mill Buildings in Pacolet",
-       "href": "/locations/pacolet"
+       "href": "/service-areas/pacolet"
       },
       {
        "label": "Spec-Building Roof Submittals for Reidville's Warehouse Growth",
-       "href": "/locations/reidville"
+       "href": "/service-areas/reidville"
       },
       {
        "label": "Metal Roof Systems for Contractor Yards and Shops in Roebuck",
-       "href": "/locations/roebuck"
+       "href": "/service-areas/roebuck"
       },
       {
        "label": "Strip Retail and Mill-Adjacent Roofing on Spartanburg's North Side",
-       "href": "/locations/saxon"
+       "href": "/service-areas/saxon"
       },
       {
        "label": "SBS Modified Bitumen for Roofs With Heavy Equipment and Traffic",
@@ -352,23 +352,23 @@
      "related": [
       {
        "label": "Riverside Roof Drainage for Clifton's Mill-Village Buildings",
-       "href": "/locations/clifton"
+       "href": "/service-areas/clifton"
       },
       {
        "label": "Maintaining Small Industrial Roofs Near I-85 in Cowpens",
-       "href": "/locations/cowpens"
+       "href": "/service-areas/cowpens"
       },
       {
        "label": "Roofing Older Masonry Buildings Around Morgan Square",
-       "href": "/locations/downtown-spartanburg"
+       "href": "/service-areas/downtown-spartanburg"
       },
       {
        "label": "Distribution-Center Roof Specifications on Duncan's I-85 Frontage",
-       "href": "/locations/duncan"
+       "href": "/service-areas/duncan"
       },
       {
        "label": "Rural Metal Roofing Along US-221 in Enoree",
-       "href": "/locations/enoree"
+       "href": "/service-areas/enoree"
       },
       {
        "label": "Repairing What Upstate Thunderstorm Season Leaves Behind",
@@ -418,23 +418,23 @@
      "related": [
       {
        "label": "Roofing Commercial Buildings Along the SC-101 Corridor in Woodruff",
-       "href": "/locations/woodruff"
+       "href": "/service-areas/woodruff"
       },
       {
        "label": "Adaptive-Reuse Roofing for Arcadia's Former Mill Buildings",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "Roofing Warehouse and Flex Buildings Near I-85 in Blacksburg",
-       "href": "/locations/blacksburg"
+       "href": "/service-areas/blacksburg"
       },
       {
        "label": "Reroof Permitting Along Boiling Springs' SC-9 Retail Corridor",
-       "href": "/locations/boiling-springs"
+       "href": "/service-areas/boiling-springs"
       },
       {
        "label": "Small-Building Roofing Along US-176 in Campobello",
-       "href": "/locations/campobello"
+       "href": "/service-areas/campobello"
       },
       {
        "label": "PVC Membrane for Roofs With Chemical or Grease Exhaust Exposure",
@@ -484,23 +484,23 @@
      "related": [
       {
        "label": "Roofing Work Along the US-221 Corridor North of Spartanburg",
-       "href": "/locations/valley-falls"
+       "href": "/service-areas/valley-falls"
       },
       {
        "label": "Phased Reroof Procurement for Wellford's Warehouse Corridor",
-       "href": "/locations/wellford"
+       "href": "/service-areas/wellford"
       },
       {
        "label": "Big-Box and Mall Roof Recovers in the Westgate Retail District",
-       "href": "/locations/westgate"
+       "href": "/service-areas/westgate"
       },
       {
        "label": "Roofing Commercial Buildings Along the SC-101 Corridor in Woodruff",
-       "href": "/locations/woodruff"
+       "href": "/service-areas/woodruff"
       },
       {
        "label": "Adaptive-Reuse Roofing for Arcadia's Former Mill Buildings",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "Perimeter Details Carry More Wind Load Than the Rest of the Roof",
@@ -550,23 +550,23 @@
      "related": [
       {
        "label": "Small-Footprint Roofing Near Glendale's Creekside Mill Site",
-       "href": "/locations/glendale"
+       "href": "/service-areas/glendale"
       },
       {
        "label": "Roofing Specifications for Greer's Automotive and Intermodal Corridor",
-       "href": "/locations/greer"
+       "href": "/service-areas/greer"
       },
       {
        "label": "Re-Roofing Retail and Mill-Adjacent Buildings Along US-176 in Inman",
-       "href": "/locations/inman"
+       "href": "/service-areas/inman"
       },
       {
        "label": "Large-Footprint Membrane Roofing Near the Jonesville Distribution Corridor",
-       "href": "/locations/jonesville"
+       "href": "/service-areas/jonesville"
       },
       {
        "label": "Commercial Roofing for Landrum's US-176 Retail and Hospitality Buildings",
-       "href": "/locations/landrum"
+       "href": "/service-areas/landrum"
       },
       {
        "label": "Tear-Off and Replacement for Roofs That Have Run Out of Options",
@@ -612,23 +612,23 @@
      "related": [
       {
        "label": "Light-Industrial Roofing Near Spartanburg's Old Rail Shops",
-       "href": "/locations/southern-shops"
+       "href": "/service-areas/southern-shops"
       },
       {
        "label": "Mill-Era Roofs Meeting New Construction Near Startex",
-       "href": "/locations/startex"
+       "href": "/service-areas/startex"
       },
       {
        "label": "Industrial Roof Systems for Union County Manufacturing Sites",
-       "href": "/locations/union"
+       "href": "/service-areas/union"
       },
       {
        "label": "Roofing Work Along the US-221 Corridor North of Spartanburg",
-       "href": "/locations/valley-falls"
+       "href": "/service-areas/valley-falls"
       },
       {
        "label": "Phased Reroof Procurement for Wellford's Warehouse Corridor",
-       "href": "/locations/wellford"
+       "href": "/service-areas/wellford"
       },
       {
        "label": "EPDM Systems for Mill Conversions and Established Roofs Across Spartanburg County",
@@ -678,23 +678,23 @@
      "related": [
       {
        "label": "Mill-Era Roofs Meeting New Construction Near Startex",
-       "href": "/locations/startex"
+       "href": "/service-areas/startex"
       },
       {
        "label": "Industrial Roof Systems for Union County Manufacturing Sites",
-       "href": "/locations/union"
+       "href": "/service-areas/union"
       },
       {
        "label": "Roofing Work Along the US-221 Corridor North of Spartanburg",
-       "href": "/locations/valley-falls"
+       "href": "/service-areas/valley-falls"
       },
       {
        "label": "Phased Reroof Procurement for Wellford's Warehouse Corridor",
-       "href": "/locations/wellford"
+       "href": "/service-areas/wellford"
       },
       {
        "label": "Big-Box and Mall Roof Recovers in the Westgate Retail District",
-       "href": "/locations/westgate"
+       "href": "/service-areas/westgate"
       },
       {
        "label": "R-Panel Metal Roofing for Warehouses and Rural Industrial Buildings",
@@ -744,23 +744,23 @@
      "related": [
       {
        "label": "Roof Recover and Replacement Options for Small Commercial Buildings in Chesnee",
-       "href": "/locations/chesnee"
+       "href": "/service-areas/chesnee"
       },
       {
        "label": "Riverside Roof Drainage for Clifton's Mill-Village Buildings",
-       "href": "/locations/clifton"
+       "href": "/service-areas/clifton"
       },
       {
        "label": "Maintaining Small Industrial Roofs Near I-85 in Cowpens",
-       "href": "/locations/cowpens"
+       "href": "/service-areas/cowpens"
       },
       {
        "label": "Roofing Older Masonry Buildings Around Morgan Square",
-       "href": "/locations/downtown-spartanburg"
+       "href": "/service-areas/downtown-spartanburg"
       },
       {
        "label": "Distribution-Center Roof Specifications on Duncan's I-85 Frontage",
-       "href": "/locations/duncan"
+       "href": "/service-areas/duncan"
       },
       {
        "label": "Silicone Coatings for Roofs That Hold Water Instead of Shedding It",
@@ -810,23 +810,23 @@
      "related": [
       {
        "label": "Roofing Commercial Buildings Along the SC-101 Corridor in Woodruff",
-       "href": "/locations/woodruff"
+       "href": "/service-areas/woodruff"
       },
       {
        "label": "Roofing Warehouse and Flex Buildings Near I-85 in Blacksburg",
-       "href": "/locations/blacksburg"
+       "href": "/service-areas/blacksburg"
       },
       {
        "label": "Reroof Permitting Along Boiling Springs' SC-9 Retail Corridor",
-       "href": "/locations/boiling-springs"
+       "href": "/service-areas/boiling-springs"
       },
       {
        "label": "Small-Building Roofing Along US-176 in Campobello",
-       "href": "/locations/campobello"
+       "href": "/service-areas/campobello"
       },
       {
        "label": "Roof Recover and Replacement Options for Small Commercial Buildings in Chesnee",
-       "href": "/locations/chesnee"
+       "href": "/service-areas/chesnee"
       },
       {
        "label": "Perimeter Details Carry More Wind Load Than the Rest of the Roof",
@@ -876,23 +876,23 @@
      "related": [
       {
        "label": "Roofing Considerations for Converted Mill Buildings in Pacolet",
-       "href": "/locations/pacolet"
+       "href": "/service-areas/pacolet"
       },
       {
        "label": "Spec-Building Roof Submittals for Reidville's Warehouse Growth",
-       "href": "/locations/reidville"
+       "href": "/service-areas/reidville"
       },
       {
        "label": "Metal Roof Systems for Contractor Yards and Shops in Roebuck",
-       "href": "/locations/roebuck"
+       "href": "/service-areas/roebuck"
       },
       {
        "label": "Strip Retail and Mill-Adjacent Roofing on Spartanburg's North Side",
-       "href": "/locations/saxon"
+       "href": "/service-areas/saxon"
       },
       {
        "label": "Light-Industrial Roofing Near Spartanburg's Old Rail Shops",
-       "href": "/locations/southern-shops"
+       "href": "/service-areas/southern-shops"
       },
       {
        "label": "Full-System Reroofing for Spartanburg County's Manufacturing Base",
@@ -942,23 +942,23 @@
      "related": [
       {
        "label": "Riverside Roof Drainage for Clifton's Mill-Village Buildings",
-       "href": "/locations/clifton"
+       "href": "/service-areas/clifton"
       },
       {
        "label": "Maintaining Small Industrial Roofs Near I-85 in Cowpens",
-       "href": "/locations/cowpens"
+       "href": "/service-areas/cowpens"
       },
       {
        "label": "Roofing Older Masonry Buildings Around Morgan Square",
-       "href": "/locations/downtown-spartanburg"
+       "href": "/service-areas/downtown-spartanburg"
       },
       {
        "label": "Distribution-Center Roof Specifications on Duncan's I-85 Frontage",
-       "href": "/locations/duncan"
+       "href": "/service-areas/duncan"
       },
       {
        "label": "Rural Metal Roofing Along US-221 in Enoree",
-       "href": "/locations/enoree"
+       "href": "/service-areas/enoree"
       },
       {
        "label": "Silicone Coatings for Roofs That Hold Water Instead of Shedding It",
@@ -1008,23 +1008,23 @@
      "related": [
       {
        "label": "Roofing Warehouse and Flex Buildings Near I-85 in Blacksburg",
-       "href": "/locations/blacksburg"
+       "href": "/service-areas/blacksburg"
       },
       {
        "label": "Reroof Permitting Along Boiling Springs' SC-9 Retail Corridor",
-       "href": "/locations/boiling-springs"
+       "href": "/service-areas/boiling-springs"
       },
       {
        "label": "Small-Building Roofing Along US-176 in Campobello",
-       "href": "/locations/campobello"
+       "href": "/service-areas/campobello"
       },
       {
        "label": "Riverside Roof Drainage for Clifton's Mill-Village Buildings",
-       "href": "/locations/clifton"
+       "href": "/service-areas/clifton"
       },
       {
        "label": "Maintaining Small Industrial Roofs Near I-85 in Cowpens",
-       "href": "/locations/cowpens"
+       "href": "/service-areas/cowpens"
       },
       {
        "label": "SBS Modified Bitumen for Roofs With Heavy Equipment and Traffic",
@@ -1074,23 +1074,23 @@
      "related": [
       {
        "label": "Spec-Building Roof Submittals for Reidville's Warehouse Growth",
-       "href": "/locations/reidville"
+       "href": "/service-areas/reidville"
       },
       {
        "label": "Metal Roof Systems for Contractor Yards and Shops in Roebuck",
-       "href": "/locations/roebuck"
+       "href": "/service-areas/roebuck"
       },
       {
        "label": "Strip Retail and Mill-Adjacent Roofing on Spartanburg's North Side",
-       "href": "/locations/saxon"
+       "href": "/service-areas/saxon"
       },
       {
        "label": "Light-Industrial Roofing Near Spartanburg's Old Rail Shops",
-       "href": "/locations/southern-shops"
+       "href": "/service-areas/southern-shops"
       },
       {
        "label": "Mill-Era Roofs Meeting New Construction Near Startex",
-       "href": "/locations/startex"
+       "href": "/service-areas/startex"
       },
       {
        "label": "Standing Seam Metal for Office Fronts, Facades, and Steep-Slope Buildings",
@@ -1140,23 +1140,23 @@
      "related": [
       {
        "label": "Roofing Specifications for Greer's Automotive and Intermodal Corridor",
-       "href": "/locations/greer"
+       "href": "/service-areas/greer"
       },
       {
        "label": "Re-Roofing Retail and Mill-Adjacent Buildings Along US-176 in Inman",
-       "href": "/locations/inman"
+       "href": "/service-areas/inman"
       },
       {
        "label": "Large-Footprint Membrane Roofing Near the Jonesville Distribution Corridor",
-       "href": "/locations/jonesville"
+       "href": "/service-areas/jonesville"
       },
       {
        "label": "Commercial Roofing for Landrum's US-176 Retail and Hospitality Buildings",
-       "href": "/locations/landrum"
+       "href": "/service-areas/landrum"
       },
       {
        "label": "Moisture-Control Roofing for Lyman's Beverage and Industrial Buildings",
-       "href": "/locations/lyman"
+       "href": "/service-areas/lyman"
       },
       {
        "label": "Standing Seam Metal for Office Fronts, Facades, and Steep-Slope Buildings",
@@ -1206,23 +1206,23 @@
      "related": [
       {
        "label": "Big-Box and Mall Roof Recovers in the Westgate Retail District",
-       "href": "/locations/westgate"
+       "href": "/service-areas/westgate"
       },
       {
        "label": "Roofing Commercial Buildings Along the SC-101 Corridor in Woodruff",
-       "href": "/locations/woodruff"
+       "href": "/service-areas/woodruff"
       },
       {
        "label": "Adaptive-Reuse Roofing for Arcadia's Former Mill Buildings",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "Roofing Warehouse and Flex Buildings Near I-85 in Blacksburg",
-       "href": "/locations/blacksburg"
+       "href": "/service-areas/blacksburg"
       },
       {
        "label": "Reroof Permitting Along Boiling Springs' SC-9 Retail Corridor",
-       "href": "/locations/boiling-springs"
+       "href": "/service-areas/boiling-springs"
       },
       {
        "label": "Stopping Water Intrusion the Same Day It Starts",
@@ -1272,23 +1272,23 @@
      "related": [
       {
        "label": "Roofing Specifications for Greer's Automotive and Intermodal Corridor",
-       "href": "/locations/greer"
+       "href": "/service-areas/greer"
       },
       {
        "label": "Re-Roofing Retail and Mill-Adjacent Buildings Along US-176 in Inman",
-       "href": "/locations/inman"
+       "href": "/service-areas/inman"
       },
       {
        "label": "Large-Footprint Membrane Roofing Near the Jonesville Distribution Corridor",
-       "href": "/locations/jonesville"
+       "href": "/service-areas/jonesville"
       },
       {
        "label": "Commercial Roofing for Landrum's US-176 Retail and Hospitality Buildings",
-       "href": "/locations/landrum"
+       "href": "/service-areas/landrum"
       },
       {
        "label": "Moisture-Control Roofing for Lyman's Beverage and Industrial Buildings",
-       "href": "/locations/lyman"
+       "href": "/service-areas/lyman"
       },
       {
        "label": "Documentation That Holds Up Under Adjuster Review",
@@ -1338,23 +1338,23 @@
      "related": [
       {
        "label": "Roof Recover and Replacement Options for Small Commercial Buildings in Chesnee",
-       "href": "/locations/chesnee"
+       "href": "/service-areas/chesnee"
       },
       {
        "label": "Riverside Roof Drainage for Clifton's Mill-Village Buildings",
-       "href": "/locations/clifton"
+       "href": "/service-areas/clifton"
       },
       {
        "label": "Maintaining Small Industrial Roofs Near I-85 in Cowpens",
-       "href": "/locations/cowpens"
+       "href": "/service-areas/cowpens"
       },
       {
        "label": "Roofing Older Masonry Buildings Around Morgan Square",
-       "href": "/locations/downtown-spartanburg"
+       "href": "/service-areas/downtown-spartanburg"
       },
       {
        "label": "Distribution-Center Roof Specifications on Duncan's I-85 Frontage",
-       "href": "/locations/duncan"
+       "href": "/service-areas/duncan"
       },
       {
        "label": "Repairing What Upstate Thunderstorm Season Leaves Behind",
@@ -1404,23 +1404,23 @@
      "related": [
       {
        "label": "Roof Recover and Replacement Options for Small Commercial Buildings in Chesnee",
-       "href": "/locations/chesnee"
+       "href": "/service-areas/chesnee"
       },
       {
        "label": "Riverside Roof Drainage for Clifton's Mill-Village Buildings",
-       "href": "/locations/clifton"
+       "href": "/service-areas/clifton"
       },
       {
        "label": "Maintaining Small Industrial Roofs Near I-85 in Cowpens",
-       "href": "/locations/cowpens"
+       "href": "/service-areas/cowpens"
       },
       {
        "label": "Roofing Older Masonry Buildings Around Morgan Square",
-       "href": "/locations/downtown-spartanburg"
+       "href": "/service-areas/downtown-spartanburg"
       },
       {
        "label": "Distribution-Center Roof Specifications on Duncan's I-85 Frontage",
-       "href": "/locations/duncan"
+       "href": "/service-areas/duncan"
       },
       {
        "label": "SBS Modified Bitumen for Roofs With Heavy Equipment and Traffic",
@@ -1470,23 +1470,23 @@
      "related": [
       {
        "label": "Adaptive-Reuse Roofing for Arcadia's Former Mill Buildings",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "Roofing Warehouse and Flex Buildings Near I-85 in Blacksburg",
-       "href": "/locations/blacksburg"
+       "href": "/service-areas/blacksburg"
       },
       {
        "label": "Reroof Permitting Along Boiling Springs' SC-9 Retail Corridor",
-       "href": "/locations/boiling-springs"
+       "href": "/service-areas/boiling-springs"
       },
       {
        "label": "Small-Building Roofing Along US-176 in Campobello",
-       "href": "/locations/campobello"
+       "href": "/service-areas/campobello"
       },
       {
        "label": "Roof Recover and Replacement Options for Small Commercial Buildings in Chesnee",
-       "href": "/locations/chesnee"
+       "href": "/service-areas/chesnee"
       },
       {
        "label": "Documentation That Holds Up Under Adjuster Review",
@@ -1536,23 +1536,23 @@
      "related": [
       {
        "label": "Phased Reroof Procurement for Wellford's Warehouse Corridor",
-       "href": "/locations/wellford"
+       "href": "/service-areas/wellford"
       },
       {
        "label": "Big-Box and Mall Roof Recovers in the Westgate Retail District",
-       "href": "/locations/westgate"
+       "href": "/service-areas/westgate"
       },
       {
        "label": "Roofing Commercial Buildings Along the SC-101 Corridor in Woodruff",
-       "href": "/locations/woodruff"
+       "href": "/service-areas/woodruff"
       },
       {
        "label": "Adaptive-Reuse Roofing for Arcadia's Former Mill Buildings",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "Reroof Permitting Along Boiling Springs' SC-9 Retail Corridor",
-       "href": "/locations/boiling-springs"
+       "href": "/service-areas/boiling-springs"
       },
       {
        "label": "Standing Seam Metal for Office Fronts, Facades, and Steep-Slope Buildings",
@@ -1602,23 +1602,23 @@
      "related": [
       {
        "label": "Riverside Roof Drainage for Clifton's Mill-Village Buildings",
-       "href": "/locations/clifton"
+       "href": "/service-areas/clifton"
       },
       {
        "label": "Maintaining Small Industrial Roofs Near I-85 in Cowpens",
-       "href": "/locations/cowpens"
+       "href": "/service-areas/cowpens"
       },
       {
        "label": "Roofing Older Masonry Buildings Around Morgan Square",
-       "href": "/locations/downtown-spartanburg"
+       "href": "/service-areas/downtown-spartanburg"
       },
       {
        "label": "Distribution-Center Roof Specifications on Duncan's I-85 Frontage",
-       "href": "/locations/duncan"
+       "href": "/service-areas/duncan"
       },
       {
        "label": "Rural Metal Roofing Along US-221 in Enoree",
-       "href": "/locations/enoree"
+       "href": "/service-areas/enoree"
       },
       {
        "label": "Full-System Reroofing for Spartanburg County's Manufacturing Base",
@@ -1668,23 +1668,23 @@
      "related": [
       {
        "label": "Industrial Roof Systems for Union County Manufacturing Sites",
-       "href": "/locations/union"
+       "href": "/service-areas/union"
       },
       {
        "label": "Roofing Work Along the US-221 Corridor North of Spartanburg",
-       "href": "/locations/valley-falls"
+       "href": "/service-areas/valley-falls"
       },
       {
        "label": "Phased Reroof Procurement for Wellford's Warehouse Corridor",
-       "href": "/locations/wellford"
+       "href": "/service-areas/wellford"
       },
       {
        "label": "Big-Box and Mall Roof Recovers in the Westgate Retail District",
-       "href": "/locations/westgate"
+       "href": "/service-areas/westgate"
       },
       {
        "label": "Roofing Commercial Buildings Along the SC-101 Corridor in Woodruff",
-       "href": "/locations/woodruff"
+       "href": "/service-areas/woodruff"
       },
       {
        "label": "Tear-Off and Replacement for Roofs That Have Run Out of Options",
@@ -1730,23 +1730,23 @@
      "related": [
       {
        "label": "Roofing Considerations for Converted Mill Buildings in Pacolet",
-       "href": "/locations/pacolet"
+       "href": "/service-areas/pacolet"
       },
       {
        "label": "Spec-Building Roof Submittals for Reidville's Warehouse Growth",
-       "href": "/locations/reidville"
+       "href": "/service-areas/reidville"
       },
       {
        "label": "Metal Roof Systems for Contractor Yards and Shops in Roebuck",
-       "href": "/locations/roebuck"
+       "href": "/service-areas/roebuck"
       },
       {
        "label": "Strip Retail and Mill-Adjacent Roofing on Spartanburg's North Side",
-       "href": "/locations/saxon"
+       "href": "/service-areas/saxon"
       },
       {
        "label": "Light-Industrial Roofing Near Spartanburg's Old Rail Shops",
-       "href": "/locations/southern-shops"
+       "href": "/service-areas/southern-shops"
       },
       {
        "label": "SBS Modified Bitumen for Roofs With Heavy Equipment and Traffic",
@@ -1796,23 +1796,23 @@
      "related": [
       {
        "label": "Phased Reroof Procurement for Wellford's Warehouse Corridor",
-       "href": "/locations/wellford"
+       "href": "/service-areas/wellford"
       },
       {
        "label": "Big-Box and Mall Roof Recovers in the Westgate Retail District",
-       "href": "/locations/westgate"
+       "href": "/service-areas/westgate"
       },
       {
        "label": "Roofing Commercial Buildings Along the SC-101 Corridor in Woodruff",
-       "href": "/locations/woodruff"
+       "href": "/service-areas/woodruff"
       },
       {
        "label": "Adaptive-Reuse Roofing for Arcadia's Former Mill Buildings",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "Roofing Warehouse and Flex Buildings Near I-85 in Blacksburg",
-       "href": "/locations/blacksburg"
+       "href": "/service-areas/blacksburg"
       },
       {
        "label": "PVC Membrane for Roofs With Chemical or Grease Exhaust Exposure",
@@ -1862,23 +1862,23 @@
      "related": [
       {
        "label": "Roofing Considerations for Converted Mill Buildings in Pacolet",
-       "href": "/locations/pacolet"
+       "href": "/service-areas/pacolet"
       },
       {
        "label": "Spec-Building Roof Submittals for Reidville's Warehouse Growth",
-       "href": "/locations/reidville"
+       "href": "/service-areas/reidville"
       },
       {
        "label": "Metal Roof Systems for Contractor Yards and Shops in Roebuck",
-       "href": "/locations/roebuck"
+       "href": "/service-areas/roebuck"
       },
       {
        "label": "Strip Retail and Mill-Adjacent Roofing on Spartanburg's North Side",
-       "href": "/locations/saxon"
+       "href": "/service-areas/saxon"
       },
       {
        "label": "Light-Industrial Roofing Near Spartanburg's Old Rail Shops",
-       "href": "/locations/southern-shops"
+       "href": "/service-areas/southern-shops"
       },
       {
        "label": "Drainage Problems Age a Roof Faster Than Almost Anything Else",
@@ -1928,23 +1928,23 @@
      "related": [
       {
        "label": "Small-Building Roofing Along US-176 in Campobello",
-       "href": "/locations/campobello"
+       "href": "/service-areas/campobello"
       },
       {
        "label": "Roof Recover and Replacement Options for Small Commercial Buildings in Chesnee",
-       "href": "/locations/chesnee"
+       "href": "/service-areas/chesnee"
       },
       {
        "label": "Riverside Roof Drainage for Clifton's Mill-Village Buildings",
-       "href": "/locations/clifton"
+       "href": "/service-areas/clifton"
       },
       {
        "label": "Roofing Older Masonry Buildings Around Morgan Square",
-       "href": "/locations/downtown-spartanburg"
+       "href": "/service-areas/downtown-spartanburg"
       },
       {
        "label": "Distribution-Center Roof Specifications on Duncan's I-85 Frontage",
-       "href": "/locations/duncan"
+       "href": "/service-areas/duncan"
       },
       {
        "label": "Built-Up Roof Systems on Spartanburg's Legacy Industrial Buildings",
@@ -2020,7 +2020,7 @@
       },
       {
        "label": "Manufacturing and Retail Roof Specifications on the Gaffney I-85 Corridor",
-       "href": "/locations/gaffney"
+       "href": "/service-areas/gaffney"
       },
       {
        "label": "Roofing Multi-Tenant Flex and Mill-Conversion Buildings",
@@ -2082,7 +2082,7 @@
       },
       {
        "label": "Process-Building Roofing Along the Tyger River Industrial Area",
-       "href": "/locations/moore"
+       "href": "/service-areas/moore"
       },
       {
        "label": "Roofing Large-Span Assembly and Supplier Plants Along I-85",
@@ -2136,7 +2136,7 @@
       },
       {
        "label": "Roofing Older Masonry Buildings Around Morgan Square",
-       "href": "/locations/downtown-spartanburg"
+       "href": "/service-areas/downtown-spartanburg"
       },
       {
        "label": "Roofing for General Manufacturing and Processing Plants in Spartanburg County",
@@ -2194,7 +2194,7 @@
       },
       {
        "label": "Reroof Permitting Along Boiling Springs' SC-9 Retail Corridor",
-       "href": "/locations/boiling-springs"
+       "href": "/service-areas/boiling-springs"
       },
       {
        "label": "Roofing Campus Buildings Around Academic-Year Constraints",
@@ -2252,7 +2252,7 @@
       },
       {
        "label": "Manufacturing and Retail Roof Specifications on the Gaffney I-85 Corridor",
-       "href": "/locations/gaffney"
+       "href": "/service-areas/gaffney"
       },
       {
        "label": "Roofing Occupied Apartment Communities Across the SC-9 Growth Corridor",
@@ -2506,7 +2506,7 @@
       },
       {
        "label": "Membrane Roofing for Fairforest's Distribution and Flex Buildings",
-       "href": "/locations/fairforest"
+       "href": "/service-areas/fairforest"
       },
       {
        "label": "Roofing Refrigerated Warehouse and Cold Storage Buildings",
@@ -2568,7 +2568,7 @@
       },
       {
        "label": "Metal Roof Systems for Contractor Yards and Shops in Roebuck",
-       "href": "/locations/roebuck"
+       "href": "/service-areas/roebuck"
       },
       {
        "label": "Roofing for General Manufacturing and Processing Plants in Spartanburg County",
@@ -2634,7 +2634,7 @@
       },
       {
        "label": "Adaptive-Reuse Roofing for Arcadia's Former Mill Buildings",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "Roofing Large-Span Assembly and Supplier Plants Along I-85",
@@ -2692,7 +2692,7 @@
       },
       {
        "label": "Phased Reroof Procurement for Wellford's Warehouse Corridor",
-       "href": "/locations/wellford"
+       "href": "/service-areas/wellford"
       },
       {
        "label": "Roofing Occupied Apartment Communities Across the SC-9 Growth Corridor",
@@ -2742,7 +2742,7 @@
       },
       {
        "label": "Manufacturing and Retail Roof Specifications on the Gaffney I-85 Corridor",
-       "href": "/locations/gaffney"
+       "href": "/service-areas/gaffney"
       },
       {
        "label": "Roofing Big-Box Anchors and Large-Format Retail Buildings",
@@ -2796,7 +2796,7 @@
       },
       {
        "label": "Light-Industrial Roofing Near Spartanburg's Old Rail Shops",
-       "href": "/locations/southern-shops"
+       "href": "/service-areas/southern-shops"
       },
       {
        "label": "Roofing for General Manufacturing and Processing Plants in Spartanburg County",
@@ -2858,7 +2858,7 @@
       },
       {
        "label": "Metal Roof Systems for Contractor Yards and Shops in Roebuck",
-       "href": "/locations/roebuck"
+       "href": "/service-areas/roebuck"
       },
       {
        "label": "Roofing Occupied Apartment Communities Across the SC-9 Growth Corridor",
@@ -2920,7 +2920,7 @@
       },
       {
        "label": "Maintaining Small Industrial Roofs Near I-85 in Cowpens",
-       "href": "/locations/cowpens"
+       "href": "/service-areas/cowpens"
       },
       {
        "label": "Roofing for General Manufacturing and Processing Plants in Spartanburg County",
@@ -2982,7 +2982,7 @@
       },
       {
        "label": "Roof Recover and Replacement Options for Small Commercial Buildings in Chesnee",
-       "href": "/locations/chesnee"
+       "href": "/service-areas/chesnee"
       },
       {
        "label": "Roofing Large-Span Assembly and Supplier Plants Along I-85",
@@ -3060,7 +3060,7 @@
       },
       {
        "label": "Strip Retail and Mill-Adjacent Roofing on Spartanburg's North Side",
-       "href": "/locations/saxon"
+       "href": "/service-areas/saxon"
       },
       {
        "label": "Roofing Public and Private Schools on a Calendar That Doesn't Bend",
@@ -3122,7 +3122,7 @@
       },
       {
        "label": "Small-Footprint Roofing Near Glendale's Creekside Mill Site",
-       "href": "/locations/glendale"
+       "href": "/service-areas/glendale"
       },
       {
        "label": "Roofing Occupied Apartment Communities Across the SC-9 Growth Corridor",
@@ -3180,7 +3180,7 @@
       },
       {
        "label": "Moisture-Control Roofing for Lyman's Beverage and Industrial Buildings",
-       "href": "/locations/lyman"
+       "href": "/service-areas/lyman"
       },
       {
        "label": "Roofing Occupied Apartment Communities Across the SC-9 Growth Corridor",
@@ -3242,7 +3242,7 @@
       },
       {
        "label": "Reroof Permitting Along Boiling Springs' SC-9 Retail Corridor",
-       "href": "/locations/boiling-springs"
+       "href": "/service-areas/boiling-springs"
       },
       {
        "label": "Roofing Refrigerated Warehouse and Cold Storage Buildings",
@@ -3304,7 +3304,7 @@
       },
       {
        "label": "Distribution-Center Roof Specifications on Duncan's I-85 Frontage",
-       "href": "/locations/duncan"
+       "href": "/service-areas/duncan"
       },
       {
        "label": "Roofing Refrigerated Warehouse and Cold Storage Buildings",
@@ -3358,7 +3358,7 @@
       },
       {
        "label": "Roofing Specifications for Greer's Automotive and Intermodal Corridor",
-       "href": "/locations/greer"
+       "href": "/service-areas/greer"
       },
       {
        "label": "Roofing Public and Private Schools on a Calendar That Doesn't Bend",
@@ -3426,7 +3426,7 @@
       },
       {
        "label": "Large-Footprint Membrane Roofing Near the Jonesville Distribution Corridor",
-       "href": "/locations/jonesville"
+       "href": "/service-areas/jonesville"
       },
       {
        "label": "Roofing Medical Office Buildings and Outpatient Clinics",
@@ -3492,7 +3492,7 @@
       },
       {
        "label": "Membrane Roofing for Fairforest's Distribution and Flex Buildings",
-       "href": "/locations/fairforest"
+       "href": "/service-areas/fairforest"
       },
       {
        "label": "Roofing Big-Box Anchors and Large-Format Retail Buildings",
@@ -3558,7 +3558,7 @@
       },
       {
        "label": "Adaptive-Reuse Roofing for Arcadia's Former Mill Buildings",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "Roofing Large-Span Assembly and Supplier Plants Along I-85",
@@ -3620,7 +3620,7 @@
       },
       {
        "label": "Maintaining Small Industrial Roofs Near I-85 in Cowpens",
-       "href": "/locations/cowpens"
+       "href": "/service-areas/cowpens"
       },
       {
        "label": "Roofing Public and Private Schools on a Calendar That Doesn't Bend",
@@ -3686,7 +3686,7 @@
       },
       {
        "label": "Distribution-Center Roof Specifications on Duncan's I-85 Frontage",
-       "href": "/locations/duncan"
+       "href": "/service-areas/duncan"
       },
       {
        "label": "Roofing Big-Box Anchors and Large-Format Retail Buildings",
@@ -3748,7 +3748,7 @@
       },
       {
        "label": "Commercial Roofing for Landrum's US-176 Retail and Hospitality Buildings",
-       "href": "/locations/landrum"
+       "href": "/service-areas/landrum"
       },
       {
        "label": "Roofing Medical Office Buildings and Outpatient Clinics",
@@ -3814,7 +3814,7 @@
       },
       {
        "label": "Maintaining Small Industrial Roofs Near I-85 in Cowpens",
-       "href": "/locations/cowpens"
+       "href": "/service-areas/cowpens"
       },
       {
        "label": "Roofing Multi-Tenant Flex and Mill-Conversion Buildings",
@@ -3876,7 +3876,7 @@
       },
       {
        "label": "Light-Industrial Roofing Near Spartanburg's Old Rail Shops",
-       "href": "/locations/southern-shops"
+       "href": "/service-areas/southern-shops"
       },
       {
        "label": "Roofing Refrigerated Warehouse and Cold Storage Buildings",
@@ -3944,7 +3944,7 @@
       },
       {
        "label": "Roofing Specifications for Greer's Automotive and Intermodal Corridor",
-       "href": "/locations/greer"
+       "href": "/service-areas/greer"
       },
       {
        "label": "Roofing Large-Span Assembly and Supplier Plants Along I-85",
@@ -4010,7 +4010,7 @@
       },
       {
        "label": "Metal Roof Systems for Contractor Yards and Shops in Roebuck",
-       "href": "/locations/roebuck"
+       "href": "/service-areas/roebuck"
       },
       {
        "label": "Roofing Refrigerated Warehouse and Cold Storage Buildings",
@@ -4072,7 +4072,7 @@
       },
       {
        "label": "Small-Footprint Roofing Near Glendale's Creekside Mill Site",
-       "href": "/locations/glendale"
+       "href": "/service-areas/glendale"
       },
       {
        "label": "Roofing Big-Box Anchors and Large-Format Retail Buildings",
@@ -4134,7 +4134,7 @@
       },
       {
        "label": "Roofing Specifications for Greer's Automotive and Intermodal Corridor",
-       "href": "/locations/greer"
+       "href": "/service-areas/greer"
       },
       {
        "label": "Roofing for General Manufacturing and Processing Plants in Spartanburg County",
@@ -4200,7 +4200,7 @@
       },
       {
        "label": "Light-Industrial Roofing Near Spartanburg's Old Rail Shops",
-       "href": "/locations/southern-shops"
+       "href": "/service-areas/southern-shops"
       },
       {
        "label": "Roofing for General Manufacturing and Processing Plants in Spartanburg County",
@@ -4262,7 +4262,7 @@
       },
       {
        "label": "Mill-Era Roofs Meeting New Construction Near Startex",
-       "href": "/locations/startex"
+       "href": "/service-areas/startex"
       },
       {
        "label": "Roofing Hospitals and Surgical Centers Without Interrupting Patient Care",
@@ -4328,7 +4328,7 @@
       },
       {
        "label": "Mill-Era Roofs Meeting New Construction Near Startex",
-       "href": "/locations/startex"
+       "href": "/service-areas/startex"
       },
       {
        "label": "Roofing Occupied Apartment Communities Across the SC-9 Growth Corridor",
@@ -4394,7 +4394,7 @@
       },
       {
        "label": "Roofing Warehouse and Flex Buildings Near I-85 in Blacksburg",
-       "href": "/locations/blacksburg"
+       "href": "/service-areas/blacksburg"
       },
       {
        "label": "Roofing General-Purpose Warehouse Buildings Across Spartanburg County",
@@ -4462,7 +4462,7 @@
       },
       {
        "label": "Strip Retail and Mill-Adjacent Roofing on Spartanburg's North Side",
-       "href": "/locations/saxon"
+       "href": "/service-areas/saxon"
       },
       {
        "label": "Roof Assessments Built for Portfolio Decisions",
@@ -4508,7 +4508,7 @@
       },
       {
        "label": "Small-Footprint Roofing Near Glendale's Creekside Mill Site",
-       "href": "/locations/glendale"
+       "href": "/service-areas/glendale"
       },
       {
        "label": "Roof Service for the I-85 Distribution Corridor",
@@ -4554,7 +4554,7 @@
       },
       {
        "label": "Moisture-Control Roofing for Lyman's Beverage and Industrial Buildings",
-       "href": "/locations/lyman"
+       "href": "/service-areas/lyman"
       },
       {
        "label": "Roof Service for the I-85 Distribution Corridor",
@@ -4600,7 +4600,7 @@
       },
       {
        "label": "Roofing Considerations for Converted Mill Buildings in Pacolet",
-       "href": "/locations/pacolet"
+       "href": "/service-areas/pacolet"
       },
       {
        "label": "A Roofing Sub That Works Inside Your Schedule",
@@ -4646,7 +4646,7 @@
       },
       {
        "label": "Roofing Work Along the US-221 Corridor North of Spartanburg",
-       "href": "/locations/valley-falls"
+       "href": "/service-areas/valley-falls"
       },
       {
        "label": "Roofing Programs Built for Plant Operations",
@@ -4692,7 +4692,7 @@
       },
       {
        "label": "Metal Roof Systems for Contractor Yards and Shops in Roebuck",
-       "href": "/locations/roebuck"
+       "href": "/service-areas/roebuck"
       },
       {
        "label": "Roofing Programs Built for Plant Operations",
@@ -4738,7 +4738,7 @@
       },
       {
        "label": "Membrane Roofing for Fairforest's Distribution and Flex Buildings",
-       "href": "/locations/fairforest"
+       "href": "/service-areas/fairforest"
       },
       {
        "label": "A Roofing Vendor Property Managers Can Rely On",
@@ -4784,7 +4784,7 @@
       },
       {
        "label": "Roofing Work Along the US-221 Corridor North of Spartanburg",
-       "href": "/locations/valley-falls"
+       "href": "/service-areas/valley-falls"
       },
       {
        "label": "A Roofing Vendor Property Managers Can Rely On",
@@ -4830,7 +4830,7 @@
       },
       {
        "label": "Moisture-Control Roofing for Lyman's Beverage and Industrial Buildings",
-       "href": "/locations/lyman"
+       "href": "/service-areas/lyman"
       },
       {
        "label": "Roof Service for the I-85 Distribution Corridor",
@@ -4876,7 +4876,7 @@
       },
       {
        "label": "Strip Retail and Mill-Adjacent Roofing on Spartanburg's North Side",
-       "href": "/locations/saxon"
+       "href": "/service-areas/saxon"
       },
       {
        "label": "A Roofing Vendor Property Managers Can Rely On",
@@ -4922,7 +4922,7 @@
       },
       {
        "label": "Adaptive-Reuse Roofing for Arcadia's Former Mill Buildings",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "Roofing for Facilities Where the Envelope Is Part of Compliance",
@@ -4968,7 +4968,7 @@
       },
       {
        "label": "Spec-Building Roof Submittals for Reidville's Warehouse Growth",
-       "href": "/locations/reidville"
+       "href": "/service-areas/reidville"
       },
       {
        "label": "Roof Work That Respects an Occupied Clinical Environment",
@@ -5020,7 +5020,7 @@
       },
       {
        "label": "Roofing Work Along the US-221 Corridor North of Spartanburg",
-       "href": "/locations/valley-falls"
+       "href": "/service-areas/valley-falls"
       },
       {
        "label": "Roofing Public and Private Schools on a Calendar That Doesn't Bend",
@@ -5066,7 +5066,7 @@
       },
       {
        "label": "Small-Footprint Roofing Near Glendale's Creekside Mill Site",
-       "href": "/locations/glendale"
+       "href": "/service-areas/glendale"
       },
       {
        "label": "Roofing Refrigerated Warehouse and Cold Storage Buildings",
@@ -5112,7 +5112,7 @@
       },
       {
        "label": "Strip Retail and Mill-Adjacent Roofing on Spartanburg's North Side",
-       "href": "/locations/saxon"
+       "href": "/service-areas/saxon"
       },
       {
        "label": "Roofing Public and Private Schools on a Calendar That Doesn't Bend",
@@ -5158,7 +5158,7 @@
       },
       {
        "label": "Roofing Older Masonry Buildings Around Morgan Square",
-       "href": "/locations/downtown-spartanburg"
+       "href": "/service-areas/downtown-spartanburg"
       },
       {
        "label": "Roofing Multi-Tenant Flex and Mill-Conversion Buildings",
@@ -5204,7 +5204,7 @@
       },
       {
        "label": "Membrane Roofing for Fairforest's Distribution and Flex Buildings",
-       "href": "/locations/fairforest"
+       "href": "/service-areas/fairforest"
       },
       {
        "label": "Roofing Large-Span Assembly and Supplier Plants Along I-85",
@@ -5250,7 +5250,7 @@
       },
       {
        "label": "Roof Recover and Replacement Options for Small Commercial Buildings in Chesnee",
-       "href": "/locations/chesnee"
+       "href": "/service-areas/chesnee"
       },
       {
        "label": "Roofing Big-Box Anchors and Large-Format Retail Buildings",
