@@ -31,6 +31,7 @@ python3 "$S/relabel_engine.py" --config "$CFG" --map "$MAP" --voice "$VOICE"
 rm -f "$PROJ/public/assets-f/css/e8d3dfad33619f.css"
 python3 "$PROJ/scripts/normalize-contact-forms.py" "$PROJ"
 node "$PROJ/scripts/finalize-lead-controls.mjs" "$PROJ"
+node "$PROJ/scripts/ensure-visible-phone.mjs"
 python3 "$S/verify_site.py" "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
 node "$S/qa_shots.mjs" "$PROJ"
 find "$PROJ/public" -maxdepth 1 -type f -name '*.html.ref' -delete
