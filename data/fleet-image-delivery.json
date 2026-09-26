@@ -1,0 +1,160 @@
+{
+  "domain": "commercialroofersspartanburg.com",
+  "images": {
+    "/ours/service-areas/commercial-roofers-spartanburg-sc-06.webp": {
+      "width": 1200,
+      "height": 700,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/fbb7a920038b30c0.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/a3006f2eef73e9aa.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/8d1daa2de8716446.webp",
+          "width": 1200
+        }
+      ]
+    },
+    "/ours/services/commercial-roof-inspection-commercial-roofers-spartanburg-sc.webp": {
+      "width": 2075,
+      "height": 1357,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/0c703d742a2cc3b9.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/399cd4c1422c5708.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/344c7df1d2241608.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/roof-systems/tpo-80-mil-commercial-roofers-spartanburg-sc.webp": {
+      "width": 1600,
+      "height": 1067,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/40e15c6bf756d9c9.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/414fcb4950927b30.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/d8914c19df5ab0fa.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/industries/manufacturing-operators-commercial-roofers-spartanburg-sc.webp": {
+      "width": 1999,
+      "height": 1332,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/c4971874af6a52e6.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/88fd3a7863a9ff3e.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/26ea5b7ec6d9cfa5.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/services/commercial-roof-tear-off-replacement-commercial-roofers-spartanburg-sc.webp": {
+      "width": 1200,
+      "height": 899,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/5eb50bce4f0d10e6.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/8d8634bd45530946.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/016af91e3c8f8fe3.webp",
+          "width": 1200
+        }
+      ]
+    },
+    "/ours/project-types/distribution-center-roofing-commercial-roofers-spartanburg-sc.webp": {
+      "width": 1980,
+      "height": 1319,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/d257fa6f5b07ccf9.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/81428dd12c8c5979.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/382250a6cc505e0b.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/project-types/manufacturing-plant-roofing-commercial-roofers-spartanburg-sc.webp": {
+      "width": 1600,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/c4232d3222c6163a.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/81dada29219fdab0.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/adf29855d294656d.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/project-types/warehouse-roofing-commercial-roofers-spartanburg-sc.webp": {
+      "width": 1920,
+      "height": 1279,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/ce3e72da5b665d45.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/9dddeb5c49b1ad95.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/4da319630c1d5939.webp",
+          "width": 1240
+        }
+      ]
+    }
+  },
+  "lazyImages": [
+    "/ours/services/commercial-roof-inspection-commercial-roofers-spartanburg-sc.webp",
+    "/ours/roof-systems/tpo-80-mil-commercial-roofers-spartanburg-sc.webp",
+    "/ours/industries/manufacturing-operators-commercial-roofers-spartanburg-sc.webp",
+    "/ours/services/commercial-roof-tear-off-replacement-commercial-roofers-spartanburg-sc.webp",
+    "/ours/project-types/distribution-center-roofing-commercial-roofers-spartanburg-sc.webp",
+    "/ours/project-types/manufacturing-plant-roofing-commercial-roofers-spartanburg-sc.webp",
+    "/ours/project-types/warehouse-roofing-commercial-roofers-spartanburg-sc.webp"
+  ],
+  "lazyBackgrounds": [],
+  "heroImage": "/ours/service-areas/commercial-roofers-spartanburg-sc-06.webp"
+}
