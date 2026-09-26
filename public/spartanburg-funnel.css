@@ -327,3 +327,33 @@ footer .footer-bottom__copyright-links {
     text-transform: uppercase;
   }
 }
+
+/* Taste fix: the theme's top secondary bar (#sub-nav, "Service Areas" / "Contact")
+   ships with no background-color, so its white theme text renders invisible on
+   the page's white background above the main header. Give it the site's own
+   dark-green panel color, which already carries white text elsewhere in this
+   theme (see .sp-close above). Desktop-only to match the bar's own d-lg-block
+   visibility so the empty mobile strip is left untouched. */
+@media (min-width: 992px) {
+  #sub-nav {
+    background: var(--sp-green);
+  }
+}
+
+/* Taste fix: the contact-page "Need commercial roof help now?" callout button
+   (injected by rr-lead-controls.js as [data-rr-contact-callout]) inherits the
+   page's default link color as an outline button, which renders as low-contrast
+   copper text on a near-white panel. Restyle it to the site's own solid CTA
+   button treatment used elsewhere on white sections (see .sp-path/.sp-decision/
+   .sp-close a above) without touching the phone number, markup, or script. */
+[data-rr-contact-callout] a {
+  border: 2px solid var(--sp-green) !important;
+  background: var(--sp-green) !important;
+  color: #fff !important;
+}
+
+[data-rr-contact-callout] a:hover,
+[data-rr-contact-callout] a:focus-visible {
+  border-color: var(--sp-copper-dark) !important;
+  background: var(--sp-copper-dark) !important;
+}
