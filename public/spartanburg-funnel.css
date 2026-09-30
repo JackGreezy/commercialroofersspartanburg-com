@@ -357,3 +357,30 @@ footer .footer-bottom__copyright-links {
   border-color: var(--sp-copper-dark) !important;
   background: var(--sp-copper-dark) !important;
 }
+
+/* ===== Inner-page layout repairs (legal pages, footer link row, button contrast) ===== */
+.rr-legal { padding: 64px 0 88px; }
+.rr-legal h1 { margin: 0 0 22px; }
+.rr-legal h2 { font-size: clamp(24px, 2.6vw, 32px); line-height: 1.12; margin: 38px 0 12px; }
+.rr-legal p, .rr-legal li { font-size: 18px; line-height: 1.7; }
+.rr-legal p { margin: 0 0 16px; }
+.rr-legal ul { margin: 0 0 20px; padding-left: 22px; }
+.rr-legal li { margin: 0 0 8px; }
+.rr-legal a { color: var(--sp-copper-dark, #7a4a12); text-decoration: underline; }
+footer .rr-footer-ia {
+  box-sizing: border-box !important;
+  margin: 24px auto 0 !important;
+  max-width: 1200px !important;
+  padding: 0 24px 40px !important;
+  width: 100% !important;
+}
+footer .rr-footer-ia a { padding: 4px 0 !important; }
+a.btn.btn-primary { color: #1f160c; }
+/* Index pages: use the full width (the donor's empty filter column is unused) and keep tile captions legible. */
+.portfolio-filter .row > .col-md-3:has(+ .col-md-9) { display: none; }
+.portfolio-filter .row > .col-md-9 { flex: 0 0 100%; max-width: 100%; }
+.portfolio-filter__tile__text-wrapper__text { color: #4f5355; font-size: 13px; line-height: 1.5; }
+@media (max-width: 767px) {
+  .portfolio-hero__header { padding-left: 12px; padding-right: 12px; }
+}
+/* ===== end inner-page layout repairs ===== */
