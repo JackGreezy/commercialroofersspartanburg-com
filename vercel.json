@@ -1,6 +1,6 @@
 {
   "cleanUrls": true,
-  "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs && node scripts/ensure-visible-phone.mjs && node scripts/build-fleet-delivery.mjs && node scripts/inject-turnstile.mjs && node scripts/normalize-contact-forms.mjs && node scripts/repair-contact-surfaces.mjs",
+  "buildCommand": "node scripts/build-contact-site.mjs",
   "rewrites": [
     {
       "source": "/roof-systems/modified-bitumen-systems",
