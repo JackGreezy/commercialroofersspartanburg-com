@@ -16,7 +16,8 @@ if [ ! -f "$CAP/public/home.html.ref" ]; then
   node "$S/faithful-home.mjs" --no-scripts --src "https://www.christmanco.com/" --pages "$PAGES" --dir "$CAP"
 fi
 mkdir -p "$PROJ/public"
-cp "$CAP"/public/*.html.ref "$PROJ/public/" 2>/dev/null || true
+# DMCA: raw captures are not copied into public/ (served dir)
+# cp "$CAP"/public/*.html.ref "$PROJ/public/" 2>/dev/null || true
 [ -d "$PROJ/public/assets-f" ] || cp -R "$CAP/public/assets-f" "$PROJ/public/"
 mkdir -p "$PROJ/qa-out"
 cp "$CAP"/qa-out/ref-*.png "$PROJ/qa-out/" 2>/dev/null || true
