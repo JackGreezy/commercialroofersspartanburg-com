@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "domain": "commercialroofersspartanburg.com",
+  "productionDeployment": "dpl_Foxjc9Hqj1Vx34VD9L1SThv6nQzy",
+  "handlerFile": "api/submit.js",
+  "handlerNormalizedSha256": "90768f6196cffb990d2a2ea4685626fd894bef936fede319ecc5871797e17454",
+  "dependenciesSha256": "e124745ae55cbca2810a1a15bda63fb27cb25dd09c4ef7c41efd5e2e8e201cfd",
+  "securityFiles": [
+    {
+      "path": "api/turnstile-config.js",
+      "sha256": "024de2d7059f7875be4e37054c4353211c9d435ed3b327da6f4b78ffb3624828"
+    },
+    {
+      "path": "lib/turnstile.js",
+      "sha256": "ff87e87508646ca1239c1a3728f05cb88ca6b47b2207c66fb9ebace3ad48006b"
+    },
+    {
+      "path": "public/rr-lead-controls.css",
+      "sha256": "6c4fc0848e012a1dd121eeac20f6772fa18dc1b52b0dafa72d0bdbed8752d7e0"
+    },
+    {
+      "path": "public/rr-lead-controls.js",
+      "sha256": "b65e2326d4cd953a2eae3b065d860f504fe4464eadfb1a132296f91230f9e004"
+    },
+    {
+      "path": "public/turnstile-contact.js",
+      "sha256": "833f8bfa3a9a48a58c8dd7a7500aabe0e313d5c6d8af0941b08f530d340f59bb"
+    },
+    {
+      "path": "scripts/finalize-lead-controls.mjs",
+      "sha256": "a99b7650de93adc3d18e2a1800ccdc49d737bce585bf95272c90518e862eb56b"
+    },
+    {
+      "path": "scripts/inject-turnstile.mjs",
+      "sha256": "7945498848d63475676c736833daeb01b2fbcf170d1a8bffe08712d9ecc7d0b0"
+    }
+  ]
+}

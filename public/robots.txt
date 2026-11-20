@@ -1,4 +1,22 @@
 User-agent: *
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
 Allow: /
 Sitemap: https://commercialroofersspartanburg.com/sitemap.xml
 # AI: https://commercialroofersspartanburg.com/llms.txt
+
+# AI public-route exclusions
+Disallow: /api/
+Disallow: /admin/
+Disallow: /portal/
+Disallow: /dashboard/
+Disallow: /auth/
+Disallow: /sign-in
+Disallow: /sign-up
+Disallow: /onboarding/
+Disallow: /dev-access
+# Keep in sync with llms.txt and ai.txt. Discovery: https://commercialroofersspartanburg.com/llms.txt https://commercialroofersspartanburg.com/ai.txt
