@@ -144,6 +144,24 @@
           "width": 1240
         }
       ]
+    },
+    "/performance/roofing-v1/ea7b204873e0f61f70928f6b.webp": {
+      "width": 2075,
+      "height": 1357,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/0c703d742a2cc3b9.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/399cd4c1422c5708.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/344c7df1d2241608.webp",
+          "width": 1240
+        }
+      ]
     }
   },
   "lazyImages": [

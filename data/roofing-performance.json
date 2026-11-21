@@ -1,0 +1,119 @@
+{
+  "revision": "roofing-speed-v1",
+  "domain": "commercialroofersspartanburg.com",
+  "images": {
+    "/ours/industries/commercial-real-estate-reits-commercial-roofers-spartanburg-sc-v2.webp": "/performance/roofing-v1/3b437b355e9e6caae521c331.webp",
+    "/ours/industries/general-contractors-commercial-roofers-spartanburg-sc-v2.webp": "/performance/roofing-v1/465ac0213f9d2cf5435c840a.webp",
+    "/ours/industries/insurance-restoration-commercial-roofers-spartanburg-sc-v2.webp": "/performance/roofing-v1/94de96ea6b51dbf0358d1c76.webp",
+    "/ours/industries/logistics-3pl-commercial-roofers-spartanburg-sc-v2.webp": "/performance/roofing-v1/1529adc575274bccd96b6f25.webp",
+    "/ours/manufacturers/carlisle-syntec-commercial-roofers-spartanburg-sc.webp": "/performance/roofing-v1/85f97493840508e1d10e2842.webp",
+    "/ours/project-types/higher-education-roofing-commercial-roofers-spartanburg-sc-v2.webp": "/performance/roofing-v1/77b0b96c2c25954fef525411.webp",
+    "/ours/project-types/industrial-flex-space-roofing-commercial-roofers-spartanburg-sc-v2.webp": "/performance/roofing-v1/c7cef6e893fa3c562946d05f.webp",
+    "/ours/project-types/multifamily-apartment-roofing-commercial-roofers-spartanburg-sc-v2.webp": "/performance/roofing-v1/d779af4073d2099e1f7d078b.webp",
+    "/ours/roof-systems/pvc-roof-systems-commercial-roofers-spartanburg-sc-v2.webp": "/performance/roofing-v1/2a72c67913d45f592d792a12.webp",
+    "/ours/roof-systems/silicone-roof-coating-commercial-roofers-spartanburg-sc.webp": "/performance/roofing-v1/ac61378e9ae3b8cdd6bd16bb.webp",
+    "/ours/services/commercial-roof-inspection-commercial-roofers-spartanburg-sc-v2.webp": "/performance/roofing-v1/ea7b204873e0f61f70928f6b.webp",
+    "/ours/services/emergency-tarp-dry-in-commercial-roofers-spartanburg-sc-v2.webp": "/performance/roofing-v1/9223d7387646c491eec8daed.webp"
+  },
+  "assets": [
+    {
+      "from": "/ours/industries/commercial-real-estate-reits-commercial-roofers-spartanburg-sc-v2.webp",
+      "to": "/performance/roofing-v1/3b437b355e9e6caae521c331.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 302528,
+      "afterBytes": 222804
+    },
+    {
+      "from": "/ours/industries/general-contractors-commercial-roofers-spartanburg-sc-v2.webp",
+      "to": "/performance/roofing-v1/465ac0213f9d2cf5435c840a.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 237604,
+      "afterBytes": 167822
+    },
+    {
+      "from": "/ours/industries/insurance-restoration-commercial-roofers-spartanburg-sc-v2.webp",
+      "to": "/performance/roofing-v1/94de96ea6b51dbf0358d1c76.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 207438,
+      "afterBytes": 148278
+    },
+    {
+      "from": "/ours/industries/logistics-3pl-commercial-roofers-spartanburg-sc-v2.webp",
+      "to": "/performance/roofing-v1/1529adc575274bccd96b6f25.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 258850,
+      "afterBytes": 185610
+    },
+    {
+      "from": "/ours/manufacturers/carlisle-syntec-commercial-roofers-spartanburg-sc.webp",
+      "to": "/performance/roofing-v1/85f97493840508e1d10e2842.webp",
+      "width": 2400,
+      "height": 1585,
+      "beforeBytes": 321510,
+      "afterBytes": 256604
+    },
+    {
+      "from": "/ours/project-types/higher-education-roofing-commercial-roofers-spartanburg-sc-v2.webp",
+      "to": "/performance/roofing-v1/77b0b96c2c25954fef525411.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 260330,
+      "afterBytes": 187096
+    },
+    {
+      "from": "/ours/project-types/industrial-flex-space-roofing-commercial-roofers-spartanburg-sc-v2.webp",
+      "to": "/performance/roofing-v1/c7cef6e893fa3c562946d05f.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 301474,
+      "afterBytes": 222422
+    },
+    {
+      "from": "/ours/project-types/multifamily-apartment-roofing-commercial-roofers-spartanburg-sc-v2.webp",
+      "to": "/performance/roofing-v1/d779af4073d2099e1f7d078b.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 199692,
+      "afterBytes": 135938
+    },
+    {
+      "from": "/ours/roof-systems/pvc-roof-systems-commercial-roofers-spartanburg-sc-v2.webp",
+      "to": "/performance/roofing-v1/2a72c67913d45f592d792a12.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 205400,
+      "afterBytes": 145778
+    },
+    {
+      "from": "/ours/roof-systems/silicone-roof-coating-commercial-roofers-spartanburg-sc.webp",
+      "to": "/performance/roofing-v1/ac61378e9ae3b8cdd6bd16bb.webp",
+      "width": 1200,
+      "height": 850,
+      "beforeBytes": 88816,
+      "afterBytes": 69418
+    },
+    {
+      "from": "/ours/services/commercial-roof-inspection-commercial-roofers-spartanburg-sc-v2.webp",
+      "to": "/performance/roofing-v1/ea7b204873e0f61f70928f6b.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 269260,
+      "afterBytes": 192882
+    },
+    {
+      "from": "/ours/services/emergency-tarp-dry-in-commercial-roofers-spartanburg-sc-v2.webp",
+      "to": "/performance/roofing-v1/9223d7387646c491eec8daed.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 245104,
+      "afterBytes": 176108
+    }
+  ],
+  "createdAt": "2026-11-21T03:53:15.604Z",
+  "fonts": [],
+  "fontFailures": []
+}
